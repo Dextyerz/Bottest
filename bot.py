@@ -1,14 +1,16 @@
-import sys
-import logging
 import asyncio
+import logging
+import sys
 import traceback
+
 import discord
 from discord.ext import commands
-from helpers.misc import maximize_size
+
 from config_handler import ConfigHandler
 from database_handler import DatabaseHandler
-from helpers import logger_handlers, embed_handler
+from helpers import embed_handler, logger_handlers
 from helpers.licence_helper import get_current_time
+from helpers.misc import maximize_size
 
 root_logger = logging.getLogger()
 root_logger.setLevel(logging.INFO)
@@ -32,9 +34,11 @@ startup_extensions = [
 class Bot(commands.Bot):
     def __init__(self, **kwargs):
         self.config = ConfigHandler("config")
-        self.main_db = asyncio.get_event_loop().run_until_complete(DatabaseHandler.create_instance())
+        self.main_db = asyncio.get_event_loop().run_until_complete(DatabaseHandler.create_instance())  # Define main_db attribute
         self.up_time_start_time = get_current_time()
-        intents = discord.Intents(guilds=True, members=True, messages=True, reactions=True)
+        intents = discord.Intents.default()
+        intents.message_content = True
+        
         super().__init__(
             command_prefix=self.prefix_callable,
             help_command=None,
@@ -61,12 +65,14 @@ class Bot(commands.Bot):
                                   f"Using '{default_prefix}' as prefix.")
             return default_prefix
 
-    async def on_ready(self):
-        root_logger.info(
-            f"Logged in as: {self.user.name} - {self.user.id}"
-            f"\tDiscordPy version: {discord.__version__}"
-        )
-        root_logger.info("Successfully logged in and booted...!")
+    # ... rest of your code ...
+async def on_ready(self):
+        # Create main_db instance here        # ... rest of your code ...
+    root_logger.info(
+        f"Logged in as: {self.user.name} - {self.user.id}"
+        f"\tDiscordPy version: {discord.__version__}"
+    )
+    root_logger.info("Successfully logged in and booted...!")
 
     @staticmethod
     async def on_connect():
@@ -92,23 +98,24 @@ class Bot(commands.Bot):
         log_message = f"Uncaught {exc_type} in '{event}': {exc_what}\n{traceback.format_exc()}"
         await self.send_to_log_channel(log_message, title="on_error exception!")
 
-    async def send_to_log_channel(self, message: str, *, title: str, ctx=None):
-        """
-        Logs passed message to logger as critical and sends the said message to bot log channel, if one is found.
-        :param message: Message with error/traceback
-        :param title: Title for message
-        :param ctx: optional, if passed will be used to add additional info to message embed footer
-        """
-        root_logger.critical(f"{title}\n{message}")
-        if self.is_ready():
-            log_channel = self.get_channel(self.config["developer_log_channel_id"])
-            embed = embed_handler.simple_embed(maximize_size(message), title, discord.Colour.red())
-            if ctx is not None:
-                guild_id = "DM" if ctx.guild is None else ctx.guild.id
-                footer = f"Guild: {guild_id}    Author: {ctx.author}    Channel: {ctx.channel.id}"
-                embed.set_footer(text=footer)
-            if log_channel is not None:
-                await log_channel.send(embed=embed)
+async def send_to_log_channel(self, message: str, *, title: str, ctx=None):
+    """
+    Logs passed message to logger as critical and sends the said message to bot log channel, if one is found.
+    :param message: Message with error/traceback
+    :param title: Title for message
+    :param ctx: optional, if passed will be used to add additional info to message embed footer
+    """
+    root_logger.critical(f"{title}\n{message}")
+    if self.is_ready():
+        log_channel = self.get_channel(self.config["developer_log_channel_id"])
+        embed = embed_handler.simple_embed(maximize_size(message), title, discord.Colour.red())
+        if ctx is not None:
+            guild_id = "DM" if ctx.guild is None else ctx.guild.id
+            footer = f"Guild: {guild_id}    Author: {ctx.author}    Channel: {ctx.channel.id}"
+            embed.set_footer(text=footer)
+        if log_channel is not None:
+            await log_channel.send(embed=embed)
+
 
 if __name__ == "__main__":
     bot = Bot()

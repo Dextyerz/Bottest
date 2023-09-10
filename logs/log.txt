@@ -1,0 +1,936 @@
+10-09-2023 05:32:23 - WARNING - Database not found! Creating fresh ... [database_handler/_get_connection]
+10-09-2023 05:32:23 - INFO - Database successfully created! [database_handler/_create_database]
+10-09-2023 05:32:23 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 05:32:23 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 05:32:23 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 05:32:23 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 05:32:23 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 05:32:23 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 05:32:23 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 05:32:23 - INFO - 	cogs.help [root/<module>]
+10-09-2023 05:32:23 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 05:32:23 - WARNING - Privileged message content intent is missing, commands may not work as expected. [discord.ext.commands.bot/_async_setup_hook]
+10-09-2023 05:32:23 - INFO - logging in using static token [discord.client/login]
+10-09-2023 05:32:25 - INFO - Shard ID None has connected to Gateway (Session ID: 0ecb13ade20a480b130013f384b0e7ca). [discord.gateway/received_message]
+10-09-2023 05:32:25 - INFO - Connection to Discord established [root/on_connect]
+10-09-2023 05:32:27 - INFO - Logged in as: YOLOOO - 910714196134592514	DiscordPy version: 2.0.1 [root/on_ready]
+10-09-2023 05:32:27 - INFO - Successfully logged in and booted...! [root/on_ready]
+10-09-2023 05:33:21 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:08:56 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 10:08:56 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:08:56 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:08:56 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:08:56 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:08:56 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:08:56 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:08:56 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:08:56 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:08:56 - WARNING - Privileged message content intent is missing, commands may not work as expected. [discord.ext.commands.bot/_async_setup_hook]
+10-09-2023 10:08:56 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:08:57 - INFO - Shard ID None has connected to Gateway (Session ID: 776b9b46daa41701c8c9d4a173b344a3). [discord.gateway/received_message]
+10-09-2023 10:08:57 - INFO - Connection to Discord established [root/on_connect]
+10-09-2023 10:08:59 - INFO - Logged in as: YOLOOO - 910714196134592514	DiscordPy version: 2.0.1 [root/on_ready]
+10-09-2023 10:08:59 - INFO - Successfully logged in and booted...! [root/on_ready]
+10-09-2023 10:10:04 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:10:15 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:10:17 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:10:23 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:10:28 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:36:53 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:36:53 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:36:53 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:36:53 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:36:53 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:36:53 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:36:53 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:36:53 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:36:53 - WARNING - Privileged message content intent is missing, commands may not work as expected. [discord.ext.commands.bot/_async_setup_hook]
+10-09-2023 10:36:53 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:36:54 - INFO - Shard ID None has connected to Gateway (Session ID: 43c45ee9f616a359cd8ce4ccc05d2ee4). [discord.gateway/received_message]
+10-09-2023 10:37:03 - ERROR - Can't get guild Dexmine bot prefix. Error:'NoneType' object has no attribute 'get_guild_prefix'. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:38:38 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:38:38 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:38:38 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:38:38 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:38:38 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:38:38 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:38:38 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:38:38 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:38:38 - WARNING - Privileged message content intent is missing, commands may not work as expected. [discord.ext.commands.bot/_async_setup_hook]
+10-09-2023 10:38:38 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:38:39 - INFO - Shard ID None has connected to Gateway (Session ID: 5eda9ec934fc7fc64e23677468eefbe3). [discord.gateway/received_message]
+10-09-2023 10:38:43 - ERROR - Can't get guild Dexmine bot prefix. Error:'NoneType' object has no attribute 'get_guild_prefix'. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:39:15 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 10:39:15 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:39:15 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:39:15 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:39:15 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:39:15 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:39:15 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:39:15 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:39:15 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:39:15 - WARNING - Privileged message content intent is missing, commands may not work as expected. [discord.ext.commands.bot/_async_setup_hook]
+10-09-2023 10:39:15 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:39:16 - INFO - Shard ID None has connected to Gateway (Session ID: 15622847ce12feb92439f92a6c2548fa). [discord.gateway/received_message]
+10-09-2023 10:39:53 - ERROR - Task exception was never retrieved
+future: <Task finished name='discord.py: on_message' coro=<Client._run_event() done, defined at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:401> exception=KeyboardInterrupt()> [asyncio/default_exception_handler]
+Traceback (most recent call last):
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+10-09-2023 10:39:56 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 10:39:56 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:39:56 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:39:56 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:39:56 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:39:56 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:39:56 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:39:56 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:39:56 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:39:56 - WARNING - Privileged message content intent is missing, commands may not work as expected. [discord.ext.commands.bot/_async_setup_hook]
+10-09-2023 10:39:56 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:39:57 - INFO - Shard ID None has connected to Gateway (Session ID: 2c8027d1191c3704ca00604c9daca8cf). [discord.gateway/received_message]
+10-09-2023 10:41:29 - WARNING - Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:41:39 - WARNING - Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:41:49 - WARNING - Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:41:59 - WARNING - Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:42:09 - WARNING - Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:42:19 - WARNING - Shard ID None heartbeat blocked for more than 60 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:42:29 - WARNING - Shard ID None heartbeat blocked for more than 70 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:42:39 - WARNING - Shard ID None heartbeat blocked for more than 80 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:42:49 - WARNING - Shard ID None heartbeat blocked for more than 90 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:42:59 - WARNING - Shard ID None heartbeat blocked for more than 100 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:43:09 - WARNING - Shard ID None heartbeat blocked for more than 110 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:43:19 - WARNING - Shard ID None heartbeat blocked for more than 120 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:43:29 - WARNING - Shard ID None heartbeat blocked for more than 130 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:43:39 - WARNING - Shard ID None heartbeat blocked for more than 140 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:43:49 - WARNING - Shard ID None heartbeat blocked for more than 150 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:43:59 - WARNING - Shard ID None heartbeat blocked for more than 160 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:44:09 - WARNING - Shard ID None heartbeat blocked for more than 170 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:44:19 - WARNING - Shard ID None heartbeat blocked for more than 180 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:44:29 - WARNING - Shard ID None heartbeat blocked for more than 190 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 135, in <module>
+    root_logger.warning(traceback_msg)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    bot_client.loop
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:44:31 - ERROR - Task exception was never retrieved
+future: <Task finished name='discord.py: on_message' coro=<Client._run_event() done, defined at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:401> exception=KeyboardInterrupt()> [asyncio/default_exception_handler]
+Traceback (most recent call last):
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 55, in prefix_callable
+    bot_client.loop
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+10-09-2023 10:44:41 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 10:44:41 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:44:41 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:44:41 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:44:41 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:44:41 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:44:41 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:44:41 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:44:41 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:44:41 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:46:18 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 10:46:18 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:46:18 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:46:18 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:46:18 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:46:18 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:46:18 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:46:18 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:46:18 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:46:18 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:47:02 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 10:47:02 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:47:02 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:47:02 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:47:02 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:47:02 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:47:02 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:47:02 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:47:02 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:47:02 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:47:04 - INFO - Shard ID None has connected to Gateway (Session ID: 97d9b023879e9cf5c56f6b2b9441ff55). [discord.gateway/received_message]
+10-09-2023 10:47:55 - WARNING - Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "/home/runner/Bottest/bot.py", line 137, in <module>
+    bot.run(bot.config["token"])
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 57, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+ [discord.gateway/run]
+10-09-2023 10:48:05 - ERROR - Task exception was never retrieved
+future: <Task finished name='discord.py: on_message' coro=<Client._run_event() done, defined at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:401> exception=KeyboardInterrupt()> [asyncio/default_exception_handler]
+Traceback (most recent call last):
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 828, in run
+    asyncio.run(runner())
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1392, in on_message
+    await self.process_commands(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1387, in process_commands
+    ctx = await self.get_context(message)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1286, in get_context
+    prefix = await self.get_prefix(origin)
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1193, in get_prefix
+    ret = await discord.utils.maybe_coroutine(prefix, self, message)  # type: ignore
+  File "/home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/utils.py", line 650, in maybe_coroutine
+    return await value
+  File "/home/runner/Bottest/bot.py", line 57, in prefix_callable
+    ).result()
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/nix/store/xf54733x4chbawkh1qvy9i1i4mlscy1c-python3-3.10.11/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+10-09-2023 10:48:07 - INFO - Connection to database established. [database_handler/create_instance]
+10-09-2023 10:48:07 - WARNING - PyNaCl is not installed, voice will NOT be supported [discord.client/__init__]
+10-09-2023 10:48:07 - INFO - Loaded extensions: [root/<module>]
+10-09-2023 10:48:07 - INFO - 	cogs.licenses [root/<module>]
+10-09-2023 10:48:07 - INFO - 	cogs.bot_owner_commands [root/<module>]
+10-09-2023 10:48:07 - INFO - 	cogs.guild [root/<module>]
+10-09-2023 10:48:07 - INFO - 	cogs.bot_information [root/<module>]
+10-09-2023 10:48:07 - INFO - 	cogs.help [root/<module>]
+10-09-2023 10:48:07 - INFO - 	cogs.cmd_errors [root/<module>]
+10-09-2023 10:48:07 - INFO - logging in using static token [discord.client/login]
+10-09-2023 10:48:08 - INFO - Shard ID None has connected to Gateway (Session ID: c5a80b630486533151c7a49c37e0eb12). [discord.gateway/received_message]
+10-09-2023 10:48:11 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:48:11 - ERROR - Ignoring exception in command None [discord.ext.commands.bot/on_command_error]
+discord.ext.commands.errors.CommandNotFound: Command "help" is not found
+10-09-2023 10:48:37 - ERROR - Can't get guild Dexmine bot prefix. Error:Task <Task pending name='discord.py: on_message' coro=<Client._run_event() running at /home/runner/Bottest/.pythonlibs/lib/python3.10/site-packages/discord/client.py:409>> got Future <Future pending> attached to a different loop. Using '!' as prefix. [root/prefix_callable]
+10-09-2023 10:48:37 - ERROR - Ignoring exception in command None [discord.ext.commands.bot/on_command_error]
+discord.ext.commands.errors.CommandNotFound: Command "generate" is not found

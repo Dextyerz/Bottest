@@ -1,9 +1,9 @@
-aiohttp==3.6.2
+aiohttp==3.7.4
 aiosqlite==0.10.0
 async-timeout==3.0.1
 attrs==19.3.0
 chardet==3.0.4
-dblpy==0.3.4
+dblpy==0.4.0
 discord.py==2.0.1
 idna==2.8
 idna-ssl==1.1.0

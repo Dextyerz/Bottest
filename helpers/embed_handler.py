@@ -6,7 +6,7 @@ def simple_embed(message: str, title: str, color: Colour) -> Embed:
     embed = Embed(title=title, description=message, color=color)
     return embed
 
-def info(message: str, member: Union[Member, User, None], title: str = Embed.Empty) -> Embed:
+def info(message: str, member: Union[Member, User, None], title: str = None) -> Embed:
     """
     Constructs info embed with custom title and description.
     Color depends on passed member top role color.
